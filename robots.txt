@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lafind.github.io/Wvp/sitemap.Wvp.gz
